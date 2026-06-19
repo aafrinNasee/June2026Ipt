@@ -6,6 +6,10 @@ public class Employee {
 		System.out.println("emp name:aafrin");
 	}
 	
+	private void empLoc() {
+		System.out.println("emp loc:Chennai");
+	}
+	
 	
 }
 
